@@ -1,0 +1,30 @@
+# Build output
+target/
+.next/
+out/
+build/
+dist/
+
+# Secrets and credentials
+application-secrets.properties
+application-local.properties
+application-*.properties
+!application.properties
+*.env
+*.env.local
+*.key
+*.pem
+.git-credentials
+
+# Dependencies
+node_modules/
+.m2/
+
+# Environment and IDE
+.env
+.env.local
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
