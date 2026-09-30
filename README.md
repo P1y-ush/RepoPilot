@@ -1,6 +1,6 @@
-# RepoAnalyzer 🚀
+# RepoPilot 🚀
 
-RepoAnalyzer is an AI-powered GitHub repository analyzer and RAG (Retrieval-Augmented Generation) chat assistant. It connects to your GitHub account, indexes codebases into vector embeddings, and enables real-time AI conversations grounded directly in your source code with file-level citations.
+RepoPilot is an AI-powered GitHub repository analyzer and RAG (Retrieval-Augmented Generation) chat assistant. It connects to your GitHub account, indexes codebases into vector embeddings, and enables real-time AI conversations grounded directly in your source code with file-level citations.
 
 ---
 
